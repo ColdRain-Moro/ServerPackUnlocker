@@ -8,7 +8,7 @@ import org.spongepowered.asm.mixin.Overwrite;
  * Created by rain on 2024/1/17
  **/
 @Mixin(Pack.class)
-public class ClientPackSourceMixin {
+public class PackMixin {
 
     /**
      * @author rain
